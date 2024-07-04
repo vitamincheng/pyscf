@@ -1,6 +1,6 @@
 from pyscf import gto,dft
 import dftd4.pyscf as d4
-from pyscf.geomopt.geometric_solver import optimize
+#from pyscf.geomopt.geometric_solver import optimize
 
 
 mol=gto.Mole()
